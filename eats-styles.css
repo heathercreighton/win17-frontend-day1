@@ -1,0 +1,14 @@
+.heading-text {
+		color: red;
+}
+
+.separator {
+
+height:100px;
+width:100px;
+background-color: blue;
+border-radius: 0px 100px 0px 0px;
+color: white;
+/*padding-top:40px;*/
+/*padding-right: 40px*/
+}
